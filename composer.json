@@ -1,5 +1,6 @@
 {
     "name": "ibraAbuKaff/google-trends",
+    "version":"1.0.0",
     "description": "Unofficial Google Trends PHP API",
     "homepage": "http://github.com/jonasva/google-trends",
     "keywords": ["google", "trends", "api"],
